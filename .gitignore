@@ -1,0 +1,9 @@
+node_modules/
+.env
+coverage/
+.mongo-bin/
+.mongo-data/
+.mongo-data-ms/
+.mongo-data-det/
+.mongo-data-pipe/
+uploads/
